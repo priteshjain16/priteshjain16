@@ -26,4 +26,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priteshjain16&show_icons=true&locale=en" alt="priteshjain16" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rpriteshjain16&" alt="priteshjain16" /></p>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="zxOrBmW" data-pen-title="Blog page" data-user="Priteshjain-the-developer" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/Priteshjain-the-developer/pen/zxOrBmW">
+  Blog page</a> by Pritesh jain (<a href="https://codepen.io/Priteshjain-the-developer">@Priteshjain-the-developer</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
+     
