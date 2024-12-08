@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/priteshjain16/priteshjain16/blob/main/github-header-image%20(7).png" width="860 height="280" alt="Banner">
+    <img src="https://github.com/priteshjain16/priteshjain16/blob/main/github-header-image%20(7).png" width=560 height="200" alt="Banner">
 </div>
 <h1 align="center">Hi 👋, I'm Pritesh Jain</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
